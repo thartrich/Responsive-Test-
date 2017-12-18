@@ -1,17 +1,14 @@
-# Week 3 Assignment - Responsive Web Design
+Responsive Web Design
 
 ---
 
 ### Description
 
 
-Relaxr's user count has grown, and the number of users accessing the site from a
-mobile device has surprised everyone, even by today's standards. The product
-managers at Relaxr have asked you to return to the project and make their site
-responsive so it renders nicely on mobile devices. They had one of their
-internal developers make a few tweaks to your source code, and they have given
-you the new HTML / CSS files to work from. Using these starter files, build out
-responsive layouts for the landing page and blog.
+General Assembly — We teach core skills that make up the entire user experience
+design process. From research and ideation to prototyping and testing, our user
+experience design training will help you solve design problems using proven
+skills and methods.
 
 ---
 
